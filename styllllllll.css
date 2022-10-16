@@ -1,0 +1,172 @@
+h1{
+	text-align: center;
+}
+
+#n1{
+	width: 53%;
+	height: 18%;
+	border: 3px solid black;
+	margin-left: 30%;
+   background-color: rgb(132, 130, 129);
+}
+#k1{
+	font-family: sans-serif;
+	border: 3px solid black;
+	width: 50%;
+	margin-left: 48%;
+	background-color: rgb(233, 120, 128);
+}
+
+#n2{
+	width: 53%;
+	height: 18%;
+	border: 3px solid black;
+	margin-left: 30%;
+	margin-top: 1%;
+	background-color: rgb(132, 130, 129);
+
+}
+#k2{
+	font-family: sans-serif;
+	border: 3px solid black;
+	width: 50%;
+	margin-left: 48%;
+	background-color: rgb(242, 44, 58);
+}
+
+#n3{
+	width: 53%;
+	height: 10%;
+    border: 3px solid black;
+    margin-left: 30%;
+   margin-top: 1%;
+   background-color: rgb(132, 130, 129);
+
+}
+
+#k3{
+	font-family: sans-serif;
+	border: 3px solid black;
+	width: 50%;
+	margin-left: 49%;
+	background-color: rgb(239, 229, 170);
+}
+
+.df{
+	text-align: right;
+}
+
+@media only screen and (min-width: 600px){
+
+#n1{
+	width: 40%;
+	height: 18%;
+	border: 3px solid black;
+	margin-left: 7%;
+    background-color: rgb(132, 130, 129);
+
+}
+
+#k1{
+	font-family: sans-serif;
+	border: 3px solid black;
+	width: 50%;
+	margin-left: 48%;
+	background-color: rgb(233, 120, 128);
+}
+
+#n2{
+	width: 40%;
+	height: 10%;
+	border: 3px solid black;
+	margin-left: 55%;
+	margin-top: -26.8%;
+	background-color: rgb(132, 130, 129);
+
+}
+
+#k2{
+	font-family: sans-serif;
+	border: 3px solid black;
+	width: 50%;
+	margin-left: 48%;
+	background-color: rgb(242, 44, 58);
+}
+
+#n3{
+	width: 88%;
+	height: 10%;
+    border: 3px solid black;
+    margin-left: 7%;
+   margin-top: 5%;
+   background-color: rgb(132, 130, 129);
+}
+
+#k3{
+	font-family: sans-serif;
+	border: 3px solid black;
+	width: 50%;
+	margin-left: 49%;
+	background-color: rgb(239, 229, 170);
+}
+
+.df{
+	text-align: right;
+}
+
+}
+@media only screen and (min-width: 768px){
+
+#n1{
+	width: 20%;
+	height: 18%;
+	border: 1px solid black;
+	margin-left: 7%;
+	background-color: rgb(132, 130, 129);
+
+}
+#k1{
+	font-family: sans-serif;
+	border: 3px solid black;
+	width: 50%;
+	margin-left: 48%;
+	background-color: rgb(233, 120, 128);
+}
+
+#n2{
+	width: 22%;
+	height: 18%;
+	border: 3px solid black;
+	margin-left: 40%;
+	margin-top: -26%;
+	background-color: rgb(132, 130, 129);
+
+}
+#k2{
+	font-family: sans-serif;
+	border: 3px solid black;
+	width: 50%;
+	margin-left: 48%;
+	background-color: rgb(242, 44, 58);
+}
+
+#n3{
+	width: 22%;
+	height: 18%;
+    border: 3px solid black;
+    margin-left: 72%;
+   margin-top: -26%;
+   background-color: rgb(132, 130, 129);
+}
+
+#k3{
+	font-family: sans-serif;
+	border: 3px solid black;
+	width: 50%;
+	margin-left: 48%;
+	background-color: rgb(239, 229, 170);
+}
+.df{
+	text-align: right;
+}
+}
